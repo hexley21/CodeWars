@@ -1,1 +1,3 @@
 # CodeWars
+
+Personal CodeWars solutions
